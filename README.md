@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is a sample website hosted on GitHub Pages.</p>
+    <p>This is Rox App Simple Page.</p>
     <a href="your-file.dmg" download>Download DMG</a>
   </body>
 </html>
